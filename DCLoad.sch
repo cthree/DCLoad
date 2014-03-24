@@ -9531,7 +9531,7 @@ Source: http://www.ledtronics.com/ds/smd-0603/Dstr0092.pdf</description>
 <instance part="U1" gate="-1" x="93.98" y="68.58"/>
 <instance part="U1" gate="-2" x="142.24" y="66.04"/>
 <instance part="U2" gate="-PWR" x="-83.82" y="71.12"/>
-<instance part="U2" gate="-1" x="160.02" y="-53.34"/>
+<instance part="U2" gate="-1" x="175.26" y="-73.66"/>
 <instance part="U2" gate="-2" x="-127" y="-10.16"/>
 <instance part="U3" gate="A" x="-106.68" y="-96.52"/>
 <instance part="Q1" gate="A" x="162.56" y="66.04"/>
